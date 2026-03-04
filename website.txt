@@ -1,1 +1,11 @@
-
+https://phasedev-script.surge.sh/
+https://phasedev.surge.sh/
+https://phasedev-uuidgen.surge.sh/
+https://phasedev-admindupe.surge.sh/
+https://phasedev-follower.surge.sh/
+https://oxiodev-license.surge.sh/
+https://oxiodev-minecraft.surge.sh/
+https://phasedev-uapgen.surge.sh/
+https://phasedevsmp.surge.sh/
+https://oxiodev-bot.surge.sh/
+http://votox-bot.surge.sh/
