@@ -8,4 +8,4 @@ https://oxiodev-minecraft.surge.sh/
 https://phasedev-uapgen.surge.sh/
 https://phasedevsmp.surge.sh/
 https://oxiodev-bot.surge.sh/
-http://votox-bot.surge.sh/
+https://votox-bot.surge.sh/
